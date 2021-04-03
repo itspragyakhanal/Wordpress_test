@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments on: Testing Blog	</title>
-	<atom:link href="/https://itspragyakhanal.github.io/Wordpress_test/2020/10/14/testing-blog/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://itspragyakhanal.github.io/Wordpress_test/2020/10/14/testing-blog/</link>
+	<atom:link href="http://itspragyakhanal.github.io/Wordpress_test/2020/10/14/testing-blog/feed/" rel="self" type="application/rss+xml" />
+	<link>http://itspragyakhanal.github.io/Wordpress_test/2020/10/14/testing-blog/</link>
 	<description>Carry the world in style</description>
 	<lastBuildDate>Wed, 14 Oct 2020 03:35:21 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -23,7 +23,7 @@
 	<item>
 		<title>
 		By: itspragya07		</title>
-		<link>/https://itspragyakhanal.github.io/Wordpress_test/2020/10/14/testing-blog/#comment-4</link>
+		<link>http://itspragyakhanal.github.io/Wordpress_test/2020/10/14/testing-blog/#comment-4</link>
 
 		<dc:creator><![CDATA[itspragya07]]></dc:creator>
 		<pubDate>Wed, 14 Oct 2020 03:35:21 +0000</pubDate>

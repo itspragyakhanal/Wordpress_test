@@ -12,8 +12,8 @@
 
 <channel>
 	<title>itspragya07 &#8211; Cubit Leathers</title>
-	<atom:link href="/https://itspragyakhanal.github.io/Wordpress_test/author/itspragya07/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://itspragyakhanal.github.io/Wordpress_test</link>
+	<atom:link href="http://itspragyakhanal.github.io/Wordpress_test/author/itspragya07/feed/" rel="self" type="application/rss+xml" />
+	<link>http://itspragyakhanal.github.io/Wordpress_test</link>
 	<description>Carry the world in style</description>
 	<lastBuildDate>Wed, 14 Oct 2020 03:34:52 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,8 +24,8 @@
 	<generator>https://wordpress.org/?v=5.7</generator>
 	<item>
 		<title>Testing Blog</title>
-		<link>/https://itspragyakhanal.github.io/Wordpress_test/2020/10/14/testing-blog/</link>
-					<comments>/https://itspragyakhanal.github.io/Wordpress_test/2020/10/14/testing-blog/#comments</comments>
+		<link>http://itspragyakhanal.github.io/Wordpress_test/2020/10/14/testing-blog/</link>
+					<comments>http://itspragyakhanal.github.io/Wordpress_test/2020/10/14/testing-blog/#comments</comments>
 		
 		<dc:creator><![CDATA[itspragya07]]></dc:creator>
 		<pubDate>Wed, 14 Oct 2020 03:34:52 +0000</pubDate>
@@ -34,20 +34,20 @@
 		<category><![CDATA[Leather]]></category>
 		<guid isPermaLink="false">https://htt496758006.wordpress.com/?p=293</guid>
 
-					<description><![CDATA[em ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat<a class="more-link" href="/https://itspragyakhanal.github.io/Wordpress_test/2020/10/14/testing-blog/">Continue reading <span class="screen-reader-text">"Testing Blog"</span></a>]]></description>
+					<description><![CDATA[em ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat<a class="more-link" href="http://itspragyakhanal.github.io/Wordpress_test/2020/10/14/testing-blog/">Continue reading <span class="screen-reader-text">"Testing Blog"</span></a>]]></description>
 										<content:encoded><![CDATA[
 <p>em ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://itspragyakhanal.github.io/Wordpress_test/2020/10/14/testing-blog/feed/</wfw:commentRss>
+					<wfw:commentRss>http://itspragyakhanal.github.io/Wordpress_test/2020/10/14/testing-blog/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Newly Arrived Hand made bags</title>
-		<link>/https://itspragyakhanal.github.io/Wordpress_test/2020/10/03/this-is-a-test-post-for-new-blogs/</link>
-					<comments>/https://itspragyakhanal.github.io/Wordpress_test/2020/10/03/this-is-a-test-post-for-new-blogs/#respond</comments>
+		<link>http://itspragyakhanal.github.io/Wordpress_test/2020/10/03/this-is-a-test-post-for-new-blogs/</link>
+					<comments>http://itspragyakhanal.github.io/Wordpress_test/2020/10/03/this-is-a-test-post-for-new-blogs/#respond</comments>
 		
 		<dc:creator><![CDATA[itspragya07]]></dc:creator>
 		<pubDate>Sat, 03 Oct 2020 03:07:32 +0000</pubDate>
@@ -61,7 +61,7 @@
 <p>123 testing.. Blog content comes here</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://itspragyakhanal.github.io/Wordpress_test/2020/10/03/this-is-a-test-post-for-new-blogs/feed/</wfw:commentRss>
+					<wfw:commentRss>http://itspragyakhanal.github.io/Wordpress_test/2020/10/03/this-is-a-test-post-for-new-blogs/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

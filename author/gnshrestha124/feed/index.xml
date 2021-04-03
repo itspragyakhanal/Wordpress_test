@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Gol Narayan Shrestha &#8211; Cubit Leathers</title>
-	<atom:link href="/https://itspragyakhanal.github.io/Wordpress_test/author/gnshrestha124/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://itspragyakhanal.github.io/Wordpress_test</link>
+	<atom:link href="http://itspragyakhanal.github.io/Wordpress_test/author/gnshrestha124/feed/" rel="self" type="application/rss+xml" />
+	<link>http://itspragyakhanal.github.io/Wordpress_test</link>
 	<description>Carry the world in style</description>
 	<lastBuildDate>Fri, 11 Sep 2020 02:03:18 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,8 +24,8 @@
 	<generator>https://wordpress.org/?v=5.7</generator>
 	<item>
 		<title>Test Blog</title>
-		<link>/https://itspragyakhanal.github.io/Wordpress_test/2020/09/11/cubit-leathers/</link>
-					<comments>/https://itspragyakhanal.github.io/Wordpress_test/2020/09/11/cubit-leathers/#respond</comments>
+		<link>http://itspragyakhanal.github.io/Wordpress_test/2020/09/11/cubit-leathers/</link>
+					<comments>http://itspragyakhanal.github.io/Wordpress_test/2020/09/11/cubit-leathers/#respond</comments>
 		
 		<dc:creator><![CDATA[Gol Narayan Shrestha]]></dc:creator>
 		<pubDate>Fri, 11 Sep 2020 02:03:18 +0000</pubDate>
@@ -45,7 +45,7 @@
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://itspragyakhanal.github.io/Wordpress_test/2020/09/11/cubit-leathers/feed/</wfw:commentRss>
+					<wfw:commentRss>http://itspragyakhanal.github.io/Wordpress_test/2020/09/11/cubit-leathers/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

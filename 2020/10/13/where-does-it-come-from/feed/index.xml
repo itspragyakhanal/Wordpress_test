@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments on: Where does it come from?	</title>
-	<atom:link href="/https://itspragyakhanal.github.io/Wordpress_test/2020/10/13/where-does-it-come-from/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://itspragyakhanal.github.io/Wordpress_test/2020/10/13/where-does-it-come-from/</link>
+	<atom:link href="http://itspragyakhanal.github.io/Wordpress_test/2020/10/13/where-does-it-come-from/feed/" rel="self" type="application/rss+xml" />
+	<link>http://itspragyakhanal.github.io/Wordpress_test/2020/10/13/where-does-it-come-from/</link>
 	<description>Carry the world in style</description>
 	<lastBuildDate>Tue, 13 Oct 2020 23:16:45 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -23,7 +23,7 @@
 	<item>
 		<title>
 		By: itspragya07		</title>
-		<link>/https://itspragyakhanal.github.io/Wordpress_test/2020/10/13/where-does-it-come-from/#comment-3</link>
+		<link>http://itspragyakhanal.github.io/Wordpress_test/2020/10/13/where-does-it-come-from/#comment-3</link>
 
 		<dc:creator><![CDATA[itspragya07]]></dc:creator>
 		<pubDate>Tue, 13 Oct 2020 23:16:45 +0000</pubDate>

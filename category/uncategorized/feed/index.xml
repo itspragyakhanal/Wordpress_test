@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Uncategorized &#8211; Cubit Leathers</title>
-	<atom:link href="/https://itspragyakhanal.github.io/Wordpress_test/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://itspragyakhanal.github.io/Wordpress_test</link>
+	<atom:link href="http://itspragyakhanal.github.io/Wordpress_test/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>http://itspragyakhanal.github.io/Wordpress_test</link>
 	<description>Carry the world in style</description>
 	<lastBuildDate>Sat, 03 Apr 2021 03:06:37 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,28 +24,28 @@
 	<generator>https://wordpress.org/?v=5.7</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>/https://itspragyakhanal.github.io/Wordpress_test/2021/04/03/hello-world/</link>
-					<comments>/https://itspragyakhanal.github.io/Wordpress_test/2021/04/03/hello-world/#comments</comments>
+		<link>http://itspragyakhanal.github.io/Wordpress_test/2021/04/03/hello-world/</link>
+					<comments>http://itspragyakhanal.github.io/Wordpress_test/2021/04/03/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[pragya]]></dc:creator>
 		<pubDate>Sat, 03 Apr 2021 03:06:37 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/https://itspragyakhanal.github.io/Wordpress_test/?p=1</guid>
+		<guid isPermaLink="false">http://itspragyakhanal.github.io/Wordpress_test/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://itspragyakhanal.github.io/Wordpress_test/2021/04/03/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>http://itspragyakhanal.github.io/Wordpress_test/2021/04/03/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>testing blog on 16/10</title>
-		<link>/https://itspragyakhanal.github.io/Wordpress_test/2020/10/16/testing-blog-on-16-10/</link>
-					<comments>/https://itspragyakhanal.github.io/Wordpress_test/2020/10/16/testing-blog-on-16-10/#comments</comments>
+		<link>http://itspragyakhanal.github.io/Wordpress_test/2020/10/16/testing-blog-on-16-10/</link>
+					<comments>http://itspragyakhanal.github.io/Wordpress_test/2020/10/16/testing-blog-on-16-10/#comments</comments>
 		
 		<dc:creator><![CDATA[angelupadhyay]]></dc:creator>
 		<pubDate>Fri, 16 Oct 2020 04:03:10 +0000</pubDate>
@@ -64,15 +64,15 @@
 <p>asdfasdfafasdf testing for the content. leather belt</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://itspragyakhanal.github.io/Wordpress_test/2020/10/16/testing-blog-on-16-10/feed/</wfw:commentRss>
+					<wfw:commentRss>http://itspragyakhanal.github.io/Wordpress_test/2020/10/16/testing-blog-on-16-10/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Testing blog on 8th October.</title>
-		<link>/https://itspragyakhanal.github.io/Wordpress_test/2020/10/08/testing-blog-on-8th-october/</link>
-					<comments>/https://itspragyakhanal.github.io/Wordpress_test/2020/10/08/testing-blog-on-8th-october/#respond</comments>
+		<link>http://itspragyakhanal.github.io/Wordpress_test/2020/10/08/testing-blog-on-8th-october/</link>
+					<comments>http://itspragyakhanal.github.io/Wordpress_test/2020/10/08/testing-blog-on-8th-october/#respond</comments>
 		
 		<dc:creator><![CDATA[angelupadhyay]]></dc:creator>
 		<pubDate>Thu, 08 Oct 2020 01:08:26 +0000</pubDate>
@@ -84,15 +84,15 @@
 <p>this is the content of the blog.adfafasdfasdagva</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://itspragyakhanal.github.io/Wordpress_test/2020/10/08/testing-blog-on-8th-october/feed/</wfw:commentRss>
+					<wfw:commentRss>http://itspragyakhanal.github.io/Wordpress_test/2020/10/08/testing-blog-on-8th-october/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>blog test post</title>
-		<link>/https://itspragyakhanal.github.io/Wordpress_test/2020/10/03/blog-test-post/</link>
-					<comments>/https://itspragyakhanal.github.io/Wordpress_test/2020/10/03/blog-test-post/#comments</comments>
+		<link>http://itspragyakhanal.github.io/Wordpress_test/2020/10/03/blog-test-post/</link>
+					<comments>http://itspragyakhanal.github.io/Wordpress_test/2020/10/03/blog-test-post/#comments</comments>
 		
 		<dc:creator><![CDATA[angelupadhyay]]></dc:creator>
 		<pubDate>Sat, 03 Oct 2020 03:07:56 +0000</pubDate>
@@ -104,15 +104,15 @@
 <p>this is blog content</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://itspragyakhanal.github.io/Wordpress_test/2020/10/03/blog-test-post/feed/</wfw:commentRss>
+					<wfw:commentRss>http://itspragyakhanal.github.io/Wordpress_test/2020/10/03/blog-test-post/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Test Blog</title>
-		<link>/https://itspragyakhanal.github.io/Wordpress_test/2020/09/11/cubit-leathers/</link>
-					<comments>/https://itspragyakhanal.github.io/Wordpress_test/2020/09/11/cubit-leathers/#respond</comments>
+		<link>http://itspragyakhanal.github.io/Wordpress_test/2020/09/11/cubit-leathers/</link>
+					<comments>http://itspragyakhanal.github.io/Wordpress_test/2020/09/11/cubit-leathers/#respond</comments>
 		
 		<dc:creator><![CDATA[Gol Narayan Shrestha]]></dc:creator>
 		<pubDate>Fri, 11 Sep 2020 02:03:18 +0000</pubDate>
@@ -132,7 +132,7 @@
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://itspragyakhanal.github.io/Wordpress_test/2020/09/11/cubit-leathers/feed/</wfw:commentRss>
+					<wfw:commentRss>http://itspragyakhanal.github.io/Wordpress_test/2020/09/11/cubit-leathers/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

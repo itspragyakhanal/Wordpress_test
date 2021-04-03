@@ -12,8 +12,8 @@
 
 <channel>
 	<title>black &#8211; Cubit Leathers</title>
-	<atom:link href="/https://itspragyakhanal.github.io/Wordpress_test/tag/black/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://itspragyakhanal.github.io/Wordpress_test</link>
+	<atom:link href="http://itspragyakhanal.github.io/Wordpress_test/tag/black/feed/" rel="self" type="application/rss+xml" />
+	<link>http://itspragyakhanal.github.io/Wordpress_test</link>
 	<description>Carry the world in style</description>
 	<lastBuildDate>Fri, 16 Oct 2020 04:03:10 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,8 +24,8 @@
 	<generator>https://wordpress.org/?v=5.7</generator>
 	<item>
 		<title>testing blog on 16/10</title>
-		<link>/https://itspragyakhanal.github.io/Wordpress_test/2020/10/16/testing-blog-on-16-10/</link>
-					<comments>/https://itspragyakhanal.github.io/Wordpress_test/2020/10/16/testing-blog-on-16-10/#comments</comments>
+		<link>http://itspragyakhanal.github.io/Wordpress_test/2020/10/16/testing-blog-on-16-10/</link>
+					<comments>http://itspragyakhanal.github.io/Wordpress_test/2020/10/16/testing-blog-on-16-10/#comments</comments>
 		
 		<dc:creator><![CDATA[angelupadhyay]]></dc:creator>
 		<pubDate>Fri, 16 Oct 2020 04:03:10 +0000</pubDate>
@@ -44,7 +44,7 @@
 <p>asdfasdfafasdf testing for the content. leather belt</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://itspragyakhanal.github.io/Wordpress_test/2020/10/16/testing-blog-on-16-10/feed/</wfw:commentRss>
+					<wfw:commentRss>http://itspragyakhanal.github.io/Wordpress_test/2020/10/16/testing-blog-on-16-10/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

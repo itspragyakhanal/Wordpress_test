@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments for Cubit Leathers	</title>
-	<atom:link href="/https://itspragyakhanal.github.io/Wordpress_test/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://itspragyakhanal.github.io/Wordpress_test</link>
+	<atom:link href="http://itspragyakhanal.github.io/Wordpress_test/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>http://itspragyakhanal.github.io/Wordpress_test</link>
 	<description>Carry the world in style</description>
 	<lastBuildDate>Sat, 03 Apr 2021 03:06:37 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -23,11 +23,11 @@
 	<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>/https://itspragyakhanal.github.io/Wordpress_test/2021/04/03/hello-world/#comment-1</link>
+		<link>http://itspragyakhanal.github.io/Wordpress_test/2021/04/03/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Sat, 03 Apr 2021 03:06:37 +0000</pubDate>
-		<guid isPermaLink="false">/https://itspragyakhanal.github.io/Wordpress_test/?p=1#comment-1</guid>
+		<guid isPermaLink="false">http://itspragyakhanal.github.io/Wordpress_test/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
@@ -41,7 +41,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.</p>
 		<item>
 		<title>
 		Comment on testing blog on 16/10 by angelupadhyay		</title>
-		<link>/https://itspragyakhanal.github.io/Wordpress_test/2020/10/16/testing-blog-on-16-10/#comment-5</link>
+		<link>http://itspragyakhanal.github.io/Wordpress_test/2020/10/16/testing-blog-on-16-10/#comment-5</link>
 
 		<dc:creator><![CDATA[angelupadhyay]]></dc:creator>
 		<pubDate>Fri, 16 Oct 2020 04:04:07 +0000</pubDate>
@@ -55,7 +55,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.</p>
 		<item>
 		<title>
 		Comment on Testing Blog by itspragya07		</title>
-		<link>/https://itspragyakhanal.github.io/Wordpress_test/2020/10/14/testing-blog/#comment-4</link>
+		<link>http://itspragyakhanal.github.io/Wordpress_test/2020/10/14/testing-blog/#comment-4</link>
 
 		<dc:creator><![CDATA[itspragya07]]></dc:creator>
 		<pubDate>Wed, 14 Oct 2020 03:35:21 +0000</pubDate>
@@ -69,7 +69,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.</p>
 		<item>
 		<title>
 		Comment on Where does it come from? by itspragya07		</title>
-		<link>/https://itspragyakhanal.github.io/Wordpress_test/2020/10/13/where-does-it-come-from/#comment-3</link>
+		<link>http://itspragyakhanal.github.io/Wordpress_test/2020/10/13/where-does-it-come-from/#comment-3</link>
 
 		<dc:creator><![CDATA[itspragya07]]></dc:creator>
 		<pubDate>Tue, 13 Oct 2020 23:16:45 +0000</pubDate>
@@ -83,7 +83,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.</p>
 		<item>
 		<title>
 		Comment on blog test post by itspragya07		</title>
-		<link>/https://itspragyakhanal.github.io/Wordpress_test/2020/10/03/blog-test-post/#comment-2</link>
+		<link>http://itspragyakhanal.github.io/Wordpress_test/2020/10/03/blog-test-post/#comment-2</link>
 
 		<dc:creator><![CDATA[itspragya07]]></dc:creator>
 		<pubDate>Sat, 03 Oct 2020 03:27:15 +0000</pubDate>
