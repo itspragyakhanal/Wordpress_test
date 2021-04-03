@@ -1,0 +1,131 @@
+# Translation of WordPress.com - Themes - Brompton in Romanian
+# This file is distributed under the same license as the WordPress.com - Themes - Brompton package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-08-24 13:09:45+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ro\n"
+"Project-Id-Version: WordPress.com - Themes - Brompton\n"
+
+#: inc/wpcom-colors.php:422 inc/wpcom-editor-colors.php:224
+msgid "Secondary Color"
+msgstr "Culoare secundară"
+
+#: inc/wpcom-colors.php:406 inc/wpcom-editor-colors.php:206
+msgid "Text Color"
+msgstr "Culoare text"
+
+#: inc/wpcom-colors.php:259 inc/wpcom-editor-colors.php:120
+msgid "Link Color"
+msgstr "Culoare legătură"
+
+#: inc/wpcom-colors.php:160 inc/wpcom-editor-colors.php:81
+msgid "Background Color"
+msgstr "Culoare fundal"
+
+#: functions.php:108
+msgid "Foreground Dark"
+msgstr "Prim-plan întunecat"
+
+#: functions.php:103
+msgid "Foreground Light"
+msgstr "Prim-plan luminos"
+
+#: functions.php:98
+msgid "Foreground"
+msgstr "Prim-plan"
+
+#: functions.php:93
+msgid "Background"
+msgstr "Fundal"
+
+#. translators: %s: WordPress.
+#: footer.php:41
+msgid "proudly powered by %s."
+msgstr "propulsată cu mândrie de %s"
+
+#: footer.php:21
+msgid "Footer Menu"
+msgstr "Meniu subsol"
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/brompton/style.css
+msgid "https://automattic.com/"
+msgstr "https://automattic.com/"
+
+#. Author of the plugin/theme
+#: wp-content/themes/pub/brompton/style.css
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/brompton/style.css
+msgid "Running a business is no small task. But with the right tools and support, creating a website doesn’t have to be another chore on your to-do list: enter Brompton, a simple yet powerful theme for small-business owners and entrepreneurs."
+msgstr "Dezvoltarea unei afaceri nu este chiar ușoară. Dar, cu ajutorul instrumentelor potrivite și cu un suport adecvat, crearea unui site web nu mai trebuie să fie o muncă plictisitoare: bazează-te pe Brompton, o temă simplă, dar puternică, pentru afaceri mici și întreprinzători."
+
+#. Translators: If there are characters in your language that are not supported
+#. by Nunito Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:152
+msgctxt "Nunito Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Lora, translate this to 'off'. Do not translate into your own language.
+#: functions.php:146
+msgctxt "Lora font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:88
+msgid "Secondary"
+msgstr "Secundar"
+
+#: functions.php:83
+msgid "Primary"
+msgstr "Principal"
+
+#: functions.php:58
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:57
+msgid "Huge"
+msgstr "Foarte mare"
+
+#: functions.php:52
+msgid "L"
+msgstr "L"
+
+#: functions.php:51
+msgid "Large"
+msgstr "Mare"
+
+#: functions.php:46
+msgid "M"
+msgstr "M"
+
+#: functions.php:45
+msgid "Medium"
+msgstr "Medie"
+
+#: functions.php:40
+msgid "N"
+msgstr "N"
+
+#: functions.php:39
+msgid "Normal"
+msgstr "Normal"
+
+#: functions.php:34
+msgid "S"
+msgstr "S"
+
+#: functions.php:33
+msgid "Small"
+msgstr "Mică"

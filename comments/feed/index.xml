@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments for Cubit Leathers	</title>
+	<atom:link href="/https://itspragyakhanal.github.io/Wordpress_test/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://itspragyakhanal.github.io/Wordpress_test</link>
+	<description>Carry the world in style</description>
+	<lastBuildDate>Sat, 03 Apr 2021 03:06:37 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		Comment on Hello world! by A WordPress Commenter		</title>
+		<link>/https://itspragyakhanal.github.io/Wordpress_test/2021/04/03/hello-world/#comment-1</link>
+
+		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
+		<pubDate>Sat, 03 Apr 2021 03:06:37 +0000</pubDate>
+		<guid isPermaLink="false">/https://itspragyakhanal.github.io/Wordpress_test/?p=1#comment-1</guid>
+
+					<description><![CDATA[Hi, this is a comment.
+To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
+Commenter avatars come from &lt;a href=&quot;https://gravatar.com&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
+			<content:encoded><![CDATA[<p>Hi, this is a comment.<br />
+To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.<br />
+Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on testing blog on 16/10 by angelupadhyay		</title>
+		<link>/https://itspragyakhanal.github.io/Wordpress_test/2020/10/16/testing-blog-on-16-10/#comment-5</link>
+
+		<dc:creator><![CDATA[angelupadhyay]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2020 04:04:07 +0000</pubDate>
+		<guid isPermaLink="false">https://htt496758006.wordpress.com/?p=296#comment-5</guid>
+
+					<description><![CDATA[i like the belt very much.]]></description>
+			<content:encoded><![CDATA[<p>i like the belt very much.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Testing Blog by itspragya07		</title>
+		<link>/https://itspragyakhanal.github.io/Wordpress_test/2020/10/14/testing-blog/#comment-4</link>
+
+		<dc:creator><![CDATA[itspragya07]]></dc:creator>
+		<pubDate>Wed, 14 Oct 2020 03:35:21 +0000</pubDate>
+		<guid isPermaLink="false">https://htt496758006.wordpress.com/?p=293#comment-4</guid>
+
+					<description><![CDATA[Good Blog]]></description>
+			<content:encoded><![CDATA[<p>Good Blog</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Where does it come from? by itspragya07		</title>
+		<link>/https://itspragyakhanal.github.io/Wordpress_test/2020/10/13/where-does-it-come-from/#comment-3</link>
+
+		<dc:creator><![CDATA[itspragya07]]></dc:creator>
+		<pubDate>Tue, 13 Oct 2020 23:16:45 +0000</pubDate>
+		<guid isPermaLink="false">https://htt496758006.wordpress.com/?p=281#comment-3</guid>
+
+					<description><![CDATA[It&#039;s good to know where the products are actually crafted. Good work I love it :)]]></description>
+			<content:encoded><![CDATA[<p>It&#8217;s good to know where the products are actually crafted. Good work I love it 🙂</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on blog test post by itspragya07		</title>
+		<link>/https://itspragyakhanal.github.io/Wordpress_test/2020/10/03/blog-test-post/#comment-2</link>
+
+		<dc:creator><![CDATA[itspragya07]]></dc:creator>
+		<pubDate>Sat, 03 Oct 2020 03:27:15 +0000</pubDate>
+		<guid isPermaLink="false">https://htt496758006.wordpress.com/?p=256#comment-2</guid>
+
+					<description><![CDATA[This is a test comment]]></description>
+			<content:encoded><![CDATA[<p>This is a test comment</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

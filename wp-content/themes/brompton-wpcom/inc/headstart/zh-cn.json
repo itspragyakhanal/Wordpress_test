@@ -1,0 +1,272 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "featured-content": false
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": {
+                "menu-1": "main-menu",
+                "menu-2": null,
+                "social": "social"
+            },
+            "custom_css_post_id": -1,
+            "hide_front_page_title": true
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "page",
+            "post_title": "合作伙伴",
+            "post_content": "<!-- wp:columns -->\n<div class=\"wp-block-columns\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:image {\"id\":12,\"sizeSlug\":\"large\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https://stratforddemo.files.wordpress.com/2019/08/logo6.png\" alt=\"\" class=\"wp-image-12\"  /></figure>\n<!-- /wp:image --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:image {\"id\":11,\"sizeSlug\":\"large\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https://stratforddemo.files.wordpress.com/2019/08/logo5.png\" alt=\"\" class=\"wp-image-11\"  /></figure>\n<!-- /wp:image --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:image {\"id\":10,\"sizeSlug\":\"large\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https://stratforddemo.files.wordpress.com/2019/08/logo4.png\" alt=\"\" class=\"wp-image-10\"  /></figure>\n<!-- /wp:image --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:image {\"id\":9,\"sizeSlug\":\"large\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https://stratforddemo.files.wordpress.com/2019/08/logo3.png\" alt=\"\" class=\"wp-image-9\"  /></figure>\n<!-- /wp:image --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:image {\"id\":8,\"sizeSlug\":\"large\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https://stratforddemo.files.wordpress.com/2019/08/logo2.png\" alt=\"\" class=\"wp-image-8\"  /></figure>\n<!-- /wp:image --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->",
+            "post_name": "partners",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 99,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "联系信息",
+            "post_content": "<!-- wp:paragraph -->\n<p>我们很乐意听取您的宝贵意见！我们随时乐意回答您的问题或接受您关于我们如何改进服务的意见。</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading -->\n<h2>联系我们</h2>\n<!-- /wp:heading -->\n\n<!-- wp:jetpack/contact-info -->\n<div class=\"wp-block-jetpack-contact-info\"><!-- wp:jetpack/address {\"address\":\"123 Main St.\",\"city\":\"Chicago\",\"region\":\"IL\",\"postal\":\"60007\",\"linkToGoogleMaps\":true} -->\n<div class=\"wp-block-jetpack-address\"><a href=\"https://www.google.com/maps/search/123+Main St.,+Chicago,+IL,+60007\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"在 Google 地图中打开地址\"><div class=\"jetpack-address__address jetpack-address__address1\">北京市</div><div><span class=\"jetpack-address__city\">海淀区</span><span class=\"jetpack-address__region\">人民路 1 号</span>，<span class=\"jetpack-address__postal\">100000</span></div></a></div>\n<!-- /wp:jetpack/address -->\n\n<!-- wp:jetpack/phone {\"phone\":\"(555) 555 1234\"} -->\n<div class=\"wp-block-jetpack-phone\"><a href=\"tel:5555551234\">(010) 6880 1234</a></div>\n<!-- /wp:jetpack/phone -->\n\n<!-- wp:jetpack/email {\"email\":\"mail@example.com\"} -->\n<div class=\"wp-block-jetpack-email\"><a href=\"mailto:mail@example.com\">mail@example.com</a></div>\n<!-- /wp:jetpack/email --></div>\n<!-- /wp:jetpack/contact-info --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading -->\n<h2>向我们发送消息</h2>\n<!-- /wp:heading -->\n\n<!-- wp:jetpack/contact-form -->\n<!-- wp:jetpack/field-name {\"required\":true} /-->\n\n<!-- wp:jetpack/field-email {\"required\":true} /-->\n\n<!-- wp:jetpack/field-url /-->\n\n<!-- wp:jetpack/field-textarea /-->\n<!-- /wp:jetpack/contact-form --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->",
+            "post_name": "contact",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 34,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "新闻",
+            "post_content": "",
+            "post_name": "news-all",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 19,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_blog_page"
+        },
+        {
+            "post_type": "page",
+            "post_title": "新闻",
+            "post_content": "<!-- wp:cover {\"url\":\"https://bromptondemo.files.wordpress.com/2019/08/bar-cafe-container-furniture-1089570-1.jpg\",\"id\":109,\"dimRatio\":0,\"align\":\"full\"} -->\n<div class=\"wp-block-cover alignfull\" style=\"background-image:url('https://bromptondemo.files.wordpress.com/2019/08/bar-cafe-container-furniture-1089570-1.jpg');\"><div class=\"wp-block-cover__inner-container\"><!-- wp:paragraph {\"align\":\"center\",\"placeholder\":\"Write title…\",\"fontSize\":\"large\"} -->\n<p style=\"text-align:center;\" class=\"has-large-font-size\"></p>\n<!-- /wp:paragraph --></div></div>\n<!-- /wp:cover -->\n\n<!-- wp:a8c/posts-list {\"postsPerPage\":4} /-->\n\n<!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator {\"className\":\"is-style-wide\"} -->\n<hr class=\"wp-block-separator is-style-wide\"  />\n<!-- /wp:separator -->\n\n<!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3>关注我们的博客</h3>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>获取直接发送到收件箱的新内容。</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:jetpack/subscriptions -->\n<div class=\"wp-block-jetpack-subscriptions\">[jetpack_subscription_form show_only_email_and_button=\"true\" custom_background_button_color=\"undefined\" custom_text_button_color=\"undefined\" submit_button_text=\"Subscribe\" submit_button_classes=\"undefined\" show_subscribers_total=\"false\" ]</div>\n<!-- /wp:jetpack/subscriptions -->",
+            "post_name": "news",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 14,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "首页",
+            "post_content": "<!-- wp:cover {\"url\":\"https://bromptondemo.files.wordpress.com/2019/08/cafe-768771_1920.jpg\",\"id\":106,\"dimRatio\":0,\"align\":\"full\"} -->\n<div class=\"wp-block-cover alignfull\" style=\"background-image:url('https://bromptondemo.files.wordpress.com/2019/08/cafe-768771_1920.jpg');\"><div class=\"wp-block-cover__inner-container\"><!-- wp:paragraph {\"align\":\"center\",\"placeholder\":\"Write title…\",\"fontSize\":\"large\"} -->\n<p style=\"text-align:center;\" class=\"has-large-font-size\"></p>\n<!-- /wp:paragraph --></div></div>\n<!-- /wp:cover -->\n\n<!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\",\"level\":1} -->\n<h1 class=\"has-text-align-center\">创建您的小型企业网站</h1>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p><em>Brompton</em>&nbsp;随时为您服务！无论您是初出茅庐的企业家，想要分享伟大想法，还是经验丰富的专业人士，希望提高网络知名度，<em>Brompton</em>&nbsp;主题都将帮助您进一步壮大您的网站。</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>要了解如何设置您的网站，以达到演示效果，请查看&nbsp;<a href=\"https://wordpress.com/theme/brompton\"><em>Brompton</em> 文档</a>。<br></p>\n<!-- /wp:paragraph -->",
+            "post_name": "home",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 4,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_front_page"
+        },
+        {
+            "post_type": "page",
+            "post_title": "关于",
+            "post_content": "<!-- wp:paragraph -->\n<p>访客想要了解页面制作者。使用此空间介绍您本人、您的站点、您的业务或任何您想要展示的内容。使用下面的好评部分来引用别人的话，用他们自己的话来谈论同样的事情。</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>这是示例内容，包含在模板中以说明其功能。删除示例内容或将示例内容替换为自己的文字和媒体。</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\",\"level\":3} -->\n<h3 class=\"has-text-align-center\">用户评价</h3>\n<!-- /wp:heading -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:quote {\"className\":\"is-style-default\"} -->\n<blockquote class=\"wp-block-quote is-style-default\"><p>我的业务和 Brompton 之间的关系就像盐和胡椒、花生酱和果冻、蝙蝠侠和罗宾、Fonz 和爱犬 Mr. Cool、彩虹和金罐、圣诞老人和饼干，我们就是完美组合。</p><cite>John</cite></blockquote>\n<!-- /wp:quote --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:quote -->\n<blockquote class=\"wp-block-quote\"><p>这款主题成就了我现在的业务：出类拔萃，大获成功，引领时代潮流。我的产品非常畅销，我觉得这都归功于&nbsp;Bromtpon。</p><cite>Caroline</cite></blockquote>\n<!-- /wp:quote --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->",
+            "post_name": "about",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 1,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "如何创建小型企业网站",
+            "post_content": "<!-- wp:paragraph -->\n<p><em>Brompton</em> 随时为您服务！无论您是初出茅庐的企业家，想要分享伟大想法，还是经验丰富的专业人士，希望提高网络知名度，<em>Brompton</em> 主题都将帮助您进一步壮大您的网站。</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>要了解如何设置您的网站，以达到演示效果，请查看 <a href=\"https://wordpress.com/theme/brompton\"><em>Brompton</em> 文档</a>。</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:image {\"align\":\"wide\",\"id\":43,\"sizeSlug\":\"large\"} -->\n<figure class=\"wp-block-image alignwide size-large\"><img src=\"https://bromptondemo.files.wordpress.com/2019/07/feet-pier-sneakers-17465.jpg?w=1024\" alt=\"\" class=\"wp-image-43\"  /></figure>\n<!-- /wp:image -->",
+            "post_name": "the-journey-begins",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 41,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Quotes"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "适用于小型企业的最佳 WordPress 主题",
+            "post_content": "<!-- wp:paragraph -->\n<p>喜欢这个主题？&#160;<a href=\"http://wordpress.com/themes/brompton/\">请点击此处，了解如何设置此主题！</a></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>使用这款新主题，为您的小型企业网站打造令人惊艳的外观！</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>运用灵活的框架为高级概述提供简明的提要。企业战略的迭代方式培养了协作思维，以进一步贯彻整体价值主张。凭借工作场所多样性和赋权，有机地发展颠覆性创新的整体世界观。</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>提供双赢的生存策略，确保主动掌控。总而言之，接下来，从 X 一代演变而来的新常态是向精简型云解决方案方向发展。用户实时生成的内容将包含多个离岸触点。</p>\n<!-- /wp:paragraph -->",
+            "post_name": "thursday-specials",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 47,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Artwork"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        }
+    ],
+    "menus": {
+        "main-menu": {
+            "name": "主菜单",
+            "items": [
+                {
+                    "menu-item-title": "首页",
+                    "menu-item-db-id": 24,
+                    "menu-item-object-id": "24",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "/"
+                },
+                {
+                    "menu-item-title": "关于",
+                    "menu-item-db-id": 52,
+                    "menu-item-object-id": "1",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "新闻",
+                    "menu-item-db-id": 27,
+                    "menu-item-object-id": "14",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "联系信息",
+                    "menu-item-db-id": 37,
+                    "menu-item-object-id": "34",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                }
+            ]
+        },
+        "social": {
+            "name": "社交",
+            "items": [
+                {
+                    "menu-item-title": "Facebook",
+                    "menu-item-db-id": 29,
+                    "menu-item-object-id": "29",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://facebook.com"
+                },
+                {
+                    "menu-item-title": "Instagram",
+                    "menu-item-db-id": 30,
+                    "menu-item-object-id": "30",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://instagram.com"
+                },
+                {
+                    "menu-item-title": "Twitter",
+                    "menu-item-db-id": 31,
+                    "menu-item-object-id": "31",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://twitter.com"
+                },
+                {
+                    "menu-item-title": "Pinterest",
+                    "menu-item-db-id": 32,
+                    "menu-item-object-id": "32",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://pinterest.com"
+                }
+            ]
+        }
+    },
+    "images": [
+        "https://bromptondemo.files.wordpress.com/2019/08/bar-cafe-container-furniture-1089570-1.jpg",
+        "https://bromptondemo.files.wordpress.com/2019/08/cafe-768771_1920.jpg",
+        "https://bromptondemo.files.wordpress.com/2019/07/cropped-logo-new-1.png",
+        "https://bromptondemo.files.wordpress.com/2019/07/computer-study.jpg",
+        "https://bromptondemo.files.wordpress.com/2019/07/cropped-logo-new.png",
+        "https://bromptondemo.files.wordpress.com/2019/07/logo-new.png",
+        "https://bromptondemo.files.wordpress.com/2019/07/cropped-logo.png",
+        "https://bromptondemo.files.wordpress.com/2019/07/feet-pier-sneakers-17465.jpg",
+        "https://bromptondemo.files.wordpress.com/2019/07/blogging-coffee-copywriting-34601.jpg"
+    ]
+}

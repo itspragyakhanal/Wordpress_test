@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>black &#8211; Cubit Leathers</title>
+	<atom:link href="/https://itspragyakhanal.github.io/Wordpress_test/tag/black/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://itspragyakhanal.github.io/Wordpress_test</link>
+	<description>Carry the world in style</description>
+	<lastBuildDate>Fri, 16 Oct 2020 04:03:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>testing blog on 16/10</title>
+		<link>/https://itspragyakhanal.github.io/Wordpress_test/2020/10/16/testing-blog-on-16-10/</link>
+					<comments>/https://itspragyakhanal.github.io/Wordpress_test/2020/10/16/testing-blog-on-16-10/#comments</comments>
+		
+		<dc:creator><![CDATA[angelupadhyay]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2020 04:03:10 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[belt]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[Leather]]></category>
+		<guid isPermaLink="false">https://htt496758006.wordpress.com/?p=296</guid>
+
+					<description><![CDATA[asdfasdfafasdf testing for the content. leather belt]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img src="https://htt496758006.files.wordpress.com/2020/09/high-quality-leather-belt-black-men-woman-cummerbunds-belts-for-women-fashion-vintage-strap-female-cinto.jpg?w=750" alt="" class="wp-image-160" /></figure>
+
+
+
+<p>asdfasdfafasdf testing for the content. leather belt</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/https://itspragyakhanal.github.io/Wordpress_test/2020/10/16/testing-blog-on-16-10/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,131 @@
+# Translation of WordPress.com - Themes - Brompton in English (UK)
+# This file is distributed under the same license as the WordPress.com - Themes - Brompton package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-09-04 14:48:45+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: en_GB\n"
+"Project-Id-Version: WordPress.com - Themes - Brompton\n"
+
+#: inc/wpcom-colors.php:422 inc/wpcom-editor-colors.php:224
+msgid "Secondary Color"
+msgstr "Secondary Colour"
+
+#: inc/wpcom-colors.php:406 inc/wpcom-editor-colors.php:206
+msgid "Text Color"
+msgstr "Text Colour"
+
+#: inc/wpcom-colors.php:259 inc/wpcom-editor-colors.php:120
+msgid "Link Color"
+msgstr "Link Colour"
+
+#: inc/wpcom-colors.php:160 inc/wpcom-editor-colors.php:81
+msgid "Background Color"
+msgstr "Background Colour"
+
+#: functions.php:108
+msgid "Foreground Dark"
+msgstr "Foreground Dark"
+
+#: functions.php:103
+msgid "Foreground Light"
+msgstr "Foreground Light"
+
+#: functions.php:98
+msgid "Foreground"
+msgstr "Foreground"
+
+#: functions.php:93
+msgid "Background"
+msgstr "Background"
+
+#. translators: %s: WordPress.
+#: footer.php:41
+msgid "proudly powered by %s."
+msgstr "proudly powered by %s."
+
+#: footer.php:21
+msgid "Footer Menu"
+msgstr "Footer Menu"
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/brompton/style.css
+msgid "https://automattic.com/"
+msgstr "https://automattic.com/"
+
+#. Author of the plugin/theme
+#: wp-content/themes/pub/brompton/style.css
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/brompton/style.css
+msgid "Running a business is no small task. But with the right tools and support, creating a website doesn’t have to be another chore on your to-do list: enter Brompton, a simple yet powerful theme for small-business owners and entrepreneurs."
+msgstr "Running a business is no small task. But with the right tools and support, creating a website doesn’t have to be another chore on your to-do list: enter Brompton, a simple yet powerful theme for small business owners and entrepreneurs."
+
+#. Translators: If there are characters in your language that are not supported
+#. by Nunito Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:152
+msgctxt "Nunito Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Lora, translate this to 'off'. Do not translate into your own language.
+#: functions.php:146
+msgctxt "Lora font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:88
+msgid "Secondary"
+msgstr "Secondary"
+
+#: functions.php:83
+msgid "Primary"
+msgstr "Primary"
+
+#: functions.php:58
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:57
+msgid "Huge"
+msgstr "Huge"
+
+#: functions.php:52
+msgid "L"
+msgstr "L"
+
+#: functions.php:51
+msgid "Large"
+msgstr "Large"
+
+#: functions.php:46
+msgid "M"
+msgstr "M"
+
+#: functions.php:45
+msgid "Medium"
+msgstr "Medium"
+
+#: functions.php:40
+msgid "N"
+msgstr "N"
+
+#: functions.php:39
+msgid "Normal"
+msgstr "Normal"
+
+#: functions.php:34
+msgid "S"
+msgstr "S"
+
+#: functions.php:33
+msgid "Small"
+msgstr "Small"

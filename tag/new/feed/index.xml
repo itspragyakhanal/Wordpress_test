@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>New &#8211; Cubit Leathers</title>
+	<atom:link href="/https://itspragyakhanal.github.io/Wordpress_test/tag/new/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://itspragyakhanal.github.io/Wordpress_test</link>
+	<description>Carry the world in style</description>
+	<lastBuildDate>Sat, 03 Oct 2020 03:07:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>Newly Arrived Hand made bags</title>
+		<link>/https://itspragyakhanal.github.io/Wordpress_test/2020/10/03/this-is-a-test-post-for-new-blogs/</link>
+					<comments>/https://itspragyakhanal.github.io/Wordpress_test/2020/10/03/this-is-a-test-post-for-new-blogs/#respond</comments>
+		
+		<dc:creator><![CDATA[itspragya07]]></dc:creator>
+		<pubDate>Sat, 03 Oct 2020 03:07:32 +0000</pubDate>
+				<category><![CDATA[Hand made Bags]]></category>
+		<category><![CDATA[Handmade]]></category>
+		<category><![CDATA[New]]></category>
+		<guid isPermaLink="false">https://htt496758006.wordpress.com/?p=253</guid>
+
+					<description><![CDATA[123 testing.. Blog content comes here]]></description>
+										<content:encoded><![CDATA[
+<p>123 testing.. Blog content comes here</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/https://itspragyakhanal.github.io/Wordpress_test/2020/10/03/this-is-a-test-post-for-new-blogs/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

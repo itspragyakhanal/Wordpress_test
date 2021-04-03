@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: testing blog on 16/10	</title>
+	<atom:link href="/https://itspragyakhanal.github.io/Wordpress_test/2020/10/16/testing-blog-on-16-10/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://itspragyakhanal.github.io/Wordpress_test/2020/10/16/testing-blog-on-16-10/</link>
+	<description>Carry the world in style</description>
+	<lastBuildDate>Fri, 16 Oct 2020 04:04:07 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>
+		By: angelupadhyay		</title>
+		<link>/https://itspragyakhanal.github.io/Wordpress_test/2020/10/16/testing-blog-on-16-10/#comment-5</link>
+
+		<dc:creator><![CDATA[angelupadhyay]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2020 04:04:07 +0000</pubDate>
+		<guid isPermaLink="false">https://htt496758006.wordpress.com/?p=296#comment-5</guid>
+
+					<description><![CDATA[i like the belt very much.]]></description>
+			<content:encoded><![CDATA[<p>i like the belt very much.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

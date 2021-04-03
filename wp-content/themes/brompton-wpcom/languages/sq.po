@@ -1,0 +1,109 @@
+# Translation of WordPress.com - Themes - Brompton in Albanian
+# This file is distributed under the same license as the WordPress.com - Themes - Brompton package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-07-24 01:28:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sq_AL\n"
+"Project-Id-Version: WordPress.com - Themes - Brompton\n"
+
+#: inc/wpcom-colors.php:422 inc/wpcom-editor-colors.php:224
+msgid "Secondary Color"
+msgstr "Ngjyrë Dytësore"
+
+#: functions.php:98
+msgid "Foreground"
+msgstr "Paraskenë"
+
+#: functions.php:103
+msgid "Foreground Light"
+msgstr "Pjesë e Përparme e Çelët"
+
+#: functions.php:108
+msgid "Foreground Dark"
+msgstr "Pjesë e Përparme e Errët"
+
+#: inc/wpcom-colors.php:160 inc/wpcom-editor-colors.php:81
+msgid "Background Color"
+msgstr "Ngjyrë Sfondi"
+
+#: inc/wpcom-colors.php:259 inc/wpcom-editor-colors.php:120
+msgid "Link Color"
+msgstr "Ngjyrë Lidhjesh"
+
+#: inc/wpcom-colors.php:406 inc/wpcom-editor-colors.php:206
+msgid "Text Color"
+msgstr "Ngjyrë Teksti"
+
+#: functions.php:93
+msgid "Background"
+msgstr "Sfond"
+
+#: footer.php:21
+msgid "Footer Menu"
+msgstr "Menu Fundfaqeje"
+
+#. translators: %s: WordPress.
+#: footer.php:41
+msgid "proudly powered by %s."
+msgstr "bazuar me krenari në %s."
+
+#. Author of the plugin/theme
+#: wp-content/themes/pub/brompton/style.css
+msgid "Automattic"
+msgstr "Automattic"
+
+#: functions.php:88
+msgid "Secondary"
+msgstr "Dytësore"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Lora, translate this to 'off'. Do not translate into your own language.
+#: functions.php:146
+msgctxt "Lora font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:46
+msgid "M"
+msgstr "M"
+
+#: functions.php:51
+msgid "Large"
+msgstr "Të mëdha"
+
+#: functions.php:52
+msgid "L"
+msgstr "L"
+
+#: functions.php:57
+msgid "Huge"
+msgstr "I stërmadh"
+
+#: functions.php:58
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:83
+msgid "Primary"
+msgstr "Parësor"
+
+#: functions.php:33
+msgid "Small"
+msgstr "Të vogla"
+
+#: functions.php:34
+msgid "S"
+msgstr "S"
+
+#: functions.php:39
+msgid "Normal"
+msgstr "Normale"
+
+#: functions.php:45
+msgid "Medium"
+msgstr "Të mesme"

@@ -1,0 +1,272 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "featured-content": false
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": {
+                "menu-1": "main-menu",
+                "menu-2": null,
+                "social": "social"
+            },
+            "custom_css_post_id": -1,
+            "hide_front_page_title": true
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "page",
+            "post_title": "파트너",
+            "post_content": "<!-- wp:columns -->\n<div class=\"wp-block-columns\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:image {\"id\":12,\"sizeSlug\":\"large\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https://stratforddemo.files.wordpress.com/2019/08/logo6.png\" alt=\"\" class=\"wp-image-12\"  /></figure>\n<!-- /wp:image --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:image {\"id\":11,\"sizeSlug\":\"large\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https://stratforddemo.files.wordpress.com/2019/08/logo5.png\" alt=\"\" class=\"wp-image-11\"  /></figure>\n<!-- /wp:image --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:image {\"id\":10,\"sizeSlug\":\"large\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https://stratforddemo.files.wordpress.com/2019/08/logo4.png\" alt=\"\" class=\"wp-image-10\"  /></figure>\n<!-- /wp:image --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:image {\"id\":9,\"sizeSlug\":\"large\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https://stratforddemo.files.wordpress.com/2019/08/logo3.png\" alt=\"\" class=\"wp-image-9\"  /></figure>\n<!-- /wp:image --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:image {\"id\":8,\"sizeSlug\":\"large\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https://stratforddemo.files.wordpress.com/2019/08/logo2.png\" alt=\"\" class=\"wp-image-8\"  /></figure>\n<!-- /wp:image --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->",
+            "post_name": "partners",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 99,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "문의",
+            "post_content": "<!-- wp:paragraph -->\n<p>자유롭게 의견을 보내주세요! 궁금한 점은 언제든지 망설이지 말고 질문해 주시고, 서비스 개선 방법이 있다면 의견을 제시해 주세요.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading -->\n<h2>문의하기</h2>\n<!-- /wp:heading -->\n\n<!-- wp:jetpack/contact-info -->\n<div class=\"wp-block-jetpack-contact-info\"><!-- wp:jetpack/address {\"address\":\"123 Main St.\",\"city\":\"Chicago\",\"region\":\"IL\",\"postal\":\"60007\",\"linkToGoogleMaps\":true} -->\n<div class=\"wp-block-jetpack-address\"><a href=\"https://www.google.com/maps/search/123+Main St.,+Chicago,+IL,+60007\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"Google 지도에서 주소 열기\"><div class=\"jetpack-address__address jetpack-address__address1\">123 Main St.</div><div><span class=\"jetpack-address__city\">Chicago</span>, <span class=\"jetpack-address__region\">IL</span> <span class=\"jetpack-address__postal\">60007</span></div></a></div>\n<!-- /wp:jetpack/address -->\n\n<!-- wp:jetpack/phone {\"phone\":\"(555) 555 1234\"} -->\n<div class=\"wp-block-jetpack-phone\"><a href=\"tel:5555551234\">(555) 555 1234</a></div>\n<!-- /wp:jetpack/phone -->\n\n<!-- wp:jetpack/email {\"email\":\"mail@example.com\"} -->\n<div class=\"wp-block-jetpack-email\"><a href=\"mailto:mail@example.com\">mail@example.com</a></div>\n<!-- /wp:jetpack/email --></div>\n<!-- /wp:jetpack/contact-info --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading -->\n<h2>메시지 보내기</h2>\n<!-- /wp:heading -->\n\n<!-- wp:jetpack/contact-form -->\n<!-- wp:jetpack/field-name {\"required\":true} /-->\n\n<!-- wp:jetpack/field-email {\"required\":true} /-->\n\n<!-- wp:jetpack/field-url /-->\n\n<!-- wp:jetpack/field-textarea /-->\n<!-- /wp:jetpack/contact-form --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->",
+            "post_name": "contact",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 34,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "뉴스",
+            "post_content": "",
+            "post_name": "news-all",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 19,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_blog_page"
+        },
+        {
+            "post_type": "page",
+            "post_title": "뉴스",
+            "post_content": "<!-- wp:cover {\"url\":\"https://bromptondemo.files.wordpress.com/2019/08/bar-cafe-container-furniture-1089570-1.jpg\",\"id\":109,\"dimRatio\":0,\"align\":\"full\"} -->\n<div class=\"wp-block-cover alignfull\" style=\"background-image:url('https://bromptondemo.files.wordpress.com/2019/08/bar-cafe-container-furniture-1089570-1.jpg');\"><div class=\"wp-block-cover__inner-container\"><!-- wp:paragraph {\"align\":\"center\",\"placeholder\":\"Write title…\",\"fontSize\":\"large\"} -->\n<p style=\"text-align:center;\" class=\"has-large-font-size\"></p>\n<!-- /wp:paragraph --></div></div>\n<!-- /wp:cover -->\n\n<!-- wp:a8c/posts-list {\"postsPerPage\":4} /-->\n\n<!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator {\"className\":\"is-style-wide\"} -->\n<hr class=\"wp-block-separator is-style-wide\"  />\n<!-- /wp:separator -->\n\n<!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3>블로그 팔로우하기</h3>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>새로운 콘텐츠를 받은 편지함으로 바로 보내드립니다.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:jetpack/subscriptions -->\n<div class=\"wp-block-jetpack-subscriptions\">[jetpack_subscription_form show_only_email_and_button=\"true\" custom_background_button_color=\"undefined\" custom_text_button_color=\"undefined\" submit_button_text=\"Subscribe\" submit_button_classes=\"undefined\" show_subscribers_total=\"false\" ]</div>\n<!-- /wp:jetpack/subscriptions -->",
+            "post_name": "news",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 14,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "홈",
+            "post_content": "<!-- wp:cover {\"url\":\"https://bromptondemo.files.wordpress.com/2019/08/cafe-768771_1920.jpg\",\"id\":106,\"dimRatio\":0,\"align\":\"full\"} -->\n<div class=\"wp-block-cover alignfull\" style=\"background-image:url('https://bromptondemo.files.wordpress.com/2019/08/cafe-768771_1920.jpg');\"><div class=\"wp-block-cover__inner-container\"><!-- wp:paragraph {\"align\":\"center\",\"placeholder\":\"Write title…\",\"fontSize\":\"large\"} -->\n<p style=\"text-align:center;\" class=\"has-large-font-size\"></p>\n<!-- /wp:paragraph --></div></div>\n<!-- /wp:cover -->\n\n<!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\",\"level\":1} -->\n<h1 class=\"has-text-align-center\">소규모 비즈니스를 위한 웹사이트 만들기</h1>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p><em>Brompton</em>&nbsp;은 함께 일할 준비가 되었습니다! 공유할 대단한 아이디어가 있는 신생 기업가이든, 온라인 입지를 높이려는 베테랑 전문가이든 &nbsp;<em>Brompton</em>&nbsp;테마는 웹사이트를 한층 발전시키는 데 도움을 드립니다.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>이 데모처럼 웹사이트를 설정하는 방법을 알아보려면 &nbsp;<a href=\"https://wordpress.com/theme/brompton\"><em>Brompton</em>의 문서</a>를 확인해 보세요.<br></p>\n<!-- /wp:paragraph -->",
+            "post_name": "home",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 4,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_front_page"
+        },
+        {
+            "post_type": "page",
+            "post_title": "정보",
+            "post_content": "<!-- wp:paragraph -->\n<p>방문자는 페이지를 만든 사람에 관해 알고 싶어합니다. 이 공간에 회원님 자신, 사이트, 비즈니스에 관한 소개나 원하는 내용을 기록하세요. 아래의 추천 글을 사용하여 같은 내용을 자신만의 언어로 이야기하는 다른 사람의 글을 인용하세요.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>다음은 샘플 콘텐츠이며, 기능을 설명하는 템플릿도 포함되어 있습니다. 이 콘텐츠를 제거하거나 자신만의 언어와 미디어로 바꾸세요.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\",\"level\":3} -->\n<h3 class=\"has-text-align-center\">추천의 말</h3>\n<!-- /wp:heading -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:quote {\"className\":\"is-style-default\"} -->\n<blockquote class=\"wp-block-quote is-style-default\"><p>제 비즈니스와 Brompton은 소금과 후추, 땅콩버터와 젤리, 배트맨과 로빈, 폰즈와 쿨, 무지개와 꿈의 실현, 산타와 쿠키의 관계와 같이 함께할 때 최상의 효과를 이루어 냅니다.</p><cite>존</cite></blockquote>\n<!-- /wp:quote --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:quote -->\n<blockquote class=\"wp-block-quote\"><p>이 테마를 통해 오늘날의 제 비즈니스가 시대를 앞서 뛰어난 성공을 거둘 수 있었습니다. 제품이 날개 돋친 듯 판매되고 있으며, Bromtpon을 만날 수 있었던 것에 진심으로 &nbsp;감사드리고 싶습니다.</p><cite>캐롤라인</cite></blockquote>\n<!-- /wp:quote --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->",
+            "post_name": "about",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 1,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "소규모 비즈니스를 위한 웹사이트를 만드는 방법",
+            "post_content": "<!-- wp:paragraph -->\n<p><em>Brompton</em>은 함께 일할 준비가 되었습니다! 공유할 큰 아이디어가 있는 신생 기업가이든, 온라인 입지를 높이려는 오래된 전문가이든 <em>Brompton</em> 테마는 웹사이트를 한층 발전시키는 데 도움을 드립니다.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>이 데모처럼 웹사이트를 설정하는 방법을 알아보려면 <a href=\"https://wordpress.com/theme/brompton\"><em>Brompton</em>의 문서</a>를 확인해 보세요.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:image {\"align\":\"wide\",\"id\":43,\"sizeSlug\":\"large\"} -->\n<figure class=\"wp-block-image alignwide size-large\"><img src=\"https://bromptondemo.files.wordpress.com/2019/07/feet-pier-sneakers-17465.jpg?w=1024\" alt=\"\" class=\"wp-image-43\"  /></figure>\n<!-- /wp:image -->",
+            "post_name": "the-journey-begins",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 41,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Quotes"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "소규모 비즈니스를 위한 최고의 워드프레스 테마",
+            "post_content": "<!-- wp:paragraph -->\n<p>이 테마가 마음에 드시나요?&#160;<a href=\"http://wordpress.com/themes/brompton/\">여기에서 설정하는 방법을 알아보세요!</a></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>이 새로운 테마로 소규모 비즈니스 웹사이트를 멋지게 만들어 보세요!</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>빠른 프레임워크를 활용하여 높은 수준의 개요를 위한 강력한 시놉시스를 제공합니다. 기업 전략에 대한 반복적인 접근 방식은 전반적인 가치 제안을 촉진하기 위한 협업적 사고를 장려합니다. 근무 환경의 다양성과 역량 강화를 통해 혁신에 대한 전체적인 세계관을 유기적으로 성장시킵니다.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>능동적인 선점을 위해 상생 생존 전략을 수립하세요. 결국 앞으로 가장 중요한 것은 X세대로부터 진화된 뉴 노멀이 간소화된 클라우드 솔루션을 향해 나아가고 있다는 것입니다. 실시간으로 사용자가 생성한 콘텐츠를 통해 다양한 오프쇼링 접점이 발생합니다.</p>\n<!-- /wp:paragraph -->",
+            "post_name": "thursday-specials",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 47,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Artwork"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        }
+    ],
+    "menus": {
+        "main-menu": {
+            "name": "메인 메뉴",
+            "items": [
+                {
+                    "menu-item-title": "홈",
+                    "menu-item-db-id": 24,
+                    "menu-item-object-id": "24",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "/"
+                },
+                {
+                    "menu-item-title": "정보",
+                    "menu-item-db-id": 52,
+                    "menu-item-object-id": "1",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "뉴스",
+                    "menu-item-db-id": 27,
+                    "menu-item-object-id": "14",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "문의",
+                    "menu-item-db-id": 37,
+                    "menu-item-object-id": "34",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                }
+            ]
+        },
+        "social": {
+            "name": "소셜",
+            "items": [
+                {
+                    "menu-item-title": "페이스북",
+                    "menu-item-db-id": 29,
+                    "menu-item-object-id": "29",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://facebook.com"
+                },
+                {
+                    "menu-item-title": "인스타그램",
+                    "menu-item-db-id": 30,
+                    "menu-item-object-id": "30",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://instagram.com"
+                },
+                {
+                    "menu-item-title": "트위터",
+                    "menu-item-db-id": 31,
+                    "menu-item-object-id": "31",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://twitter.com"
+                },
+                {
+                    "menu-item-title": "핀터레스트",
+                    "menu-item-db-id": 32,
+                    "menu-item-object-id": "32",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://pinterest.com"
+                }
+            ]
+        }
+    },
+    "images": [
+        "https://bromptondemo.files.wordpress.com/2019/08/bar-cafe-container-furniture-1089570-1.jpg",
+        "https://bromptondemo.files.wordpress.com/2019/08/cafe-768771_1920.jpg",
+        "https://bromptondemo.files.wordpress.com/2019/07/cropped-logo-new-1.png",
+        "https://bromptondemo.files.wordpress.com/2019/07/computer-study.jpg",
+        "https://bromptondemo.files.wordpress.com/2019/07/cropped-logo-new.png",
+        "https://bromptondemo.files.wordpress.com/2019/07/logo-new.png",
+        "https://bromptondemo.files.wordpress.com/2019/07/cropped-logo.png",
+        "https://bromptondemo.files.wordpress.com/2019/07/feet-pier-sneakers-17465.jpg",
+        "https://bromptondemo.files.wordpress.com/2019/07/blogging-coffee-copywriting-34601.jpg"
+    ]
+}

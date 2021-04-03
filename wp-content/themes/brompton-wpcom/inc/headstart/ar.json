@@ -1,0 +1,272 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "featured-content": false
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": {
+                "menu-1": "main-menu",
+                "menu-2": null,
+                "social": "social"
+            },
+            "custom_css_post_id": -1,
+            "hide_front_page_title": true
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "page",
+            "post_title": "الشركاء",
+            "post_content": "<!-- wp:columns -->\n<div class=\"wp-block-columns\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:image {\"id\":12,\"sizeSlug\":\"large\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https://stratforddemo.files.wordpress.com/2019/08/logo6.png\" alt=\"\" class=\"wp-image-12\"  /></figure>\n<!-- /wp:image --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:image {\"id\":11,\"sizeSlug\":\"large\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https://stratforddemo.files.wordpress.com/2019/08/logo5.png\" alt=\"\" class=\"wp-image-11\"  /></figure>\n<!-- /wp:image --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:image {\"id\":10,\"sizeSlug\":\"large\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https://stratforddemo.files.wordpress.com/2019/08/logo4.png\" alt=\"\" class=\"wp-image-10\"  /></figure>\n<!-- /wp:image --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:image {\"id\":9,\"sizeSlug\":\"large\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https://stratforddemo.files.wordpress.com/2019/08/logo3.png\" alt=\"\" class=\"wp-image-9\"  /></figure>\n<!-- /wp:image --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:image {\"id\":8,\"sizeSlug\":\"large\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https://stratforddemo.files.wordpress.com/2019/08/logo2.png\" alt=\"\" class=\"wp-image-8\"  /></figure>\n<!-- /wp:image --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->",
+            "post_name": "partners",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 99,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "جهة الاتصال",
+            "post_content": "<!-- wp:paragraph -->\n<p>نود أن نعرف رأيك قريبًا! يسعدنا دومًا الإجابة عن أسئلتك أو استقبال تعليقاتك حول كيفية تحسين خدمتنا.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading -->\n<h2>البقاء على اتصال</h2>\n<!-- /wp:heading -->\n\n<!-- wp:jetpack/contact-info -->\n<div class=\"wp-block-jetpack-contact-info\"><!-- wp:jetpack/address {\"address\":\"123 Main St.\",\"city\":\"Chicago\",\"region\":\"IL\",\"postal\":\"60007\",\"linkToGoogleMaps\":true} -->\n<div class=\"wp-block-jetpack-address\"><a href=\"https://www.google.com/maps/search/123+Main St.,+Chicago,+IL,+60007\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"فتح عنوان في Google Maps\"><div class=\"jetpack-address__address jetpack-address__address1\">123 شارع الحمراء</div><div><span class=\"jetpack-address__city\">وسط بيروت</span>، <span class=\"jetpack-address__region\">بيروت</span> <span class=\"jetpack-address__postal\">60007</span></div></a></div>\n<!-- /wp:jetpack/address -->\n\n<!-- wp:jetpack/phone {\"phone\":\"(555) 555 1234\"} -->\n<div class=\"wp-block-jetpack-phone\"><a href=\"tel:5555551234\">‎(555) 555 1234</a></div>\n<!-- /wp:jetpack/phone -->\n\n<!-- wp:jetpack/email {\"email\":\"mail@example.com\"} -->\n<div class=\"wp-block-jetpack-email\"><a href=\"mailto:mail@example.com\">mail@example.com</a></div>\n<!-- /wp:jetpack/email --></div>\n<!-- /wp:jetpack/contact-info --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading -->\n<h2>إرسال رسالة إلينا</h2>\n<!-- /wp:heading -->\n\n<!-- wp:jetpack/contact-form -->\n<!-- wp:jetpack/field-name {\"required\":true} /-->\n\n<!-- wp:jetpack/field-email {\"required\":true} /-->\n\n<!-- wp:jetpack/field-url /-->\n\n<!-- wp:jetpack/field-textarea /-->\n<!-- /wp:jetpack/contact-form --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->",
+            "post_name": "contact",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 34,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "أخبار",
+            "post_content": "",
+            "post_name": "news-all",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 19,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_blog_page"
+        },
+        {
+            "post_type": "page",
+            "post_title": "أخبار",
+            "post_content": "<!-- wp:cover {\"url\":\"https://bromptondemo.files.wordpress.com/2019/08/bar-cafe-container-furniture-1089570-1.jpg\",\"id\":109,\"dimRatio\":0,\"align\":\"full\"} -->\n<div class=\"wp-block-cover alignfull\" style=\"background-image:url('https://bromptondemo.files.wordpress.com/2019/08/bar-cafe-container-furniture-1089570-1.jpg');\"><div class=\"wp-block-cover__inner-container\"><!-- wp:paragraph {\"align\":\"center\",\"placeholder\":\"Write title…\",\"fontSize\":\"large\"} -->\n<p style=\"text-align:center;\" class=\"has-large-font-size\"></p>\n<!-- /wp:paragraph --></div></div>\n<!-- /wp:cover -->\n\n<!-- wp:a8c/posts-list {\"postsPerPage\":4} /-->\n\n<!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:separator {\"className\":\"is-style-wide\"} -->\n<hr class=\"wp-block-separator is-style-wide\"  />\n<!-- /wp:separator -->\n\n<!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"level\":3} -->\n<h3>متابعة مدونتنا</h3>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>احصل على محتوى جديد يتم تسليمه مباشرةً إلى علبة الوارد لديك.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:jetpack/subscriptions -->\n<div class=\"wp-block-jetpack-subscriptions\">[jetpack_subscription_form show_only_email_and_button=\"true\" custom_background_button_color=\"undefined\" custom_text_button_color=\"undefined\" submit_button_text=\"Subscribe\" submit_button_classes=\"undefined\" show_subscribers_total=\"false\" ]</div>\n<!-- /wp:jetpack/subscriptions -->",
+            "post_name": "news",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 14,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "الصفحة الرئيسية",
+            "post_content": "<!-- wp:cover {\"url\":\"https://bromptondemo.files.wordpress.com/2019/08/cafe-768771_1920.jpg\",\"id\":106,\"dimRatio\":0,\"align\":\"full\"} -->\n<div class=\"wp-block-cover alignfull\" style=\"background-image:url('https://bromptondemo.files.wordpress.com/2019/08/cafe-768771_1920.jpg');\"><div class=\"wp-block-cover__inner-container\"><!-- wp:paragraph {\"align\":\"center\",\"placeholder\":\"Write title…\",\"fontSize\":\"large\"} -->\n<p style=\"text-align:center;\" class=\"has-large-font-size\"></p>\n<!-- /wp:paragraph --></div></div>\n<!-- /wp:cover -->\n\n<!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\",\"level\":1} -->\n<h1 class=\"has-text-align-center\">إنشاء موقع ويب خاص بشركتك الصغيرة</h1>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p><em>Brompton</em>&nbsp;جاهز للعمل لأجلك! سواء كنت رائد أعمال حديثًا لديه أفكار رائعة لمشاركتها أو كنت محترفًا قديمًا يتطلع إلى تعزيز وجوده عبر الإنترنت، فإنَّ قالب &nbsp;<em>Brompton</em>&nbsp;سيساعد على نقل موقعك على الويب إلى ما هو أبعد من ذلك.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>للتعرف على إعداد موقع الويب الخاص بك ليبدو مثل هذا العرض التوضيحي، راجع وثائق &nbsp;<a href=\"https://wordpress.com/theme/brompton\"><em>Brompton</em></a>.<br></p>\n<!-- /wp:paragraph -->",
+            "post_name": "home",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 4,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_front_page"
+        },
+        {
+            "post_type": "page",
+            "post_title": "نبذة عن",
+            "post_content": "<!-- wp:paragraph -->\n<p>سيرغب الزائرون في معرفة الموجودين على الجانب الآخر من الصفحة. استخدم هذه المساحة للكتابة عن نفسك أو موقعك أو شركتك أو أي شيء تريده. استخدم الشهادات الواردة أدناه للاقتباس من الآخرين الذين يتحدثون حول الأمر نفسه بأسلوبهم الخاص.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>هذا هو محتوى النموذج المضمَّن مع القالب لتوضيح ميزاته. يمكنك إزالته أو استبدال كلماتك ووسائطك الخاصة به.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} -->\n<div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:heading {\"align\":\"center\",\"level\":3} -->\n<h3 class=\"has-text-align-center\">ما يقوله الأشخاص</h3>\n<!-- /wp:heading -->\n\n<!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:quote {\"className\":\"is-style-default\"} -->\n<blockquote class=\"wp-block-quote is-style-default\"><p>أعمالي وBrompton يشبهان الملح والفلفل، زبدة الفول السوداني والجيلي، باتمان وروبن، فونز وكول، أقواس قزح وأواني الذهب، وسانتا والكعك – إنها مثالية معًا.</p><cite>جون</cite></blockquote>\n<!-- /wp:quote --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:quote -->\n<blockquote class=\"wp-block-quote\"><p>جعل هذا القالب شركتي على ما هي عليه اليوم — مميزة، وناجحة بشكل كبير وتسبق عصرها. تملأ منتجاتي الأرفف، وأعتقد حقًا أنَّه يجب أن أشكر Bromtpon&nbsp;على ذلك.</p><cite>كارولين</cite></blockquote>\n<!-- /wp:quote --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->",
+            "post_name": "about",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 1,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "كيفية إنشاء موقع ويب لشركة صغيرة",
+            "post_content": "<!-- wp:paragraph -->\n<p><em>Brompton</em>جاهز للعمل لأجلك! سواء كنت رائد أعمال حديثًا لديه أفكار رائعة لمشاركتها أو كنت محترفًا قديمًا يتطلع إلى تعزيز وجوده عبر الإنترنت، فإنَّ قالب <em>Brompton</em>سيساعد على نقل موقعك على الويب إلى ما هو أبعد من ذلك.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>لمعرفة إعداد موقع الويب الخاص بك ليبدو مثل هذا العرض التوضيحي، راجع وثائق <a href=\"https://wordpress.com/theme/brompton\"><em>Brompton</em></a>.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:image {\"align\":\"wide\",\"id\":43,\"sizeSlug\":\"large\"} -->\n<figure class=\"wp-block-image alignwide size-large\"><img src=\"https://bromptondemo.files.wordpress.com/2019/07/feet-pier-sneakers-17465.jpg?w=1024\" alt=\"\" class=\"wp-image-43\"  /></figure>\n<!-- /wp:image -->",
+            "post_name": "the-journey-begins",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 41,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Quotes"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "أفضل قوالب ووردبريس لشركتك الصغيرة",
+            "post_content": "<!-- wp:paragraph -->\n<p>هل تشبه هذا القالب؟&#160;<a href=\"http://wordpress.com/themes/brompton/\">تعرَّف على كيفية إنشائه هنا!</a></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>اجعل موقعك على الويب الخاص بشركتك الصغيرة رائعًا بفضل هذا القالب الجديد!</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>استفد من الأطر المرنة لتوفير ملخص قوي للنظرات العامة عالية المستوى. تعزِّز النهج التكرارية لاستراتيجية الشركة التفكير التعاوني لتعزيز مقترح القيمة الإجمالية. طوِّر نظرة شمولية للعالم حول الابتكار الناسخ بشكل طبيعي عن طريق التنوع في مكان العمل والتمكين.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>قدم إستراتيجيات بقاء مفيدة لجميع الأطراف لضمان السيطرة الاستباقية. في النهاية، وبالمضي قدمًا، نشأ وضع طبيعي جديد من الجيل X ووضع قدمه على الطريق نحو ابتكار حل سحابة مبسط. سيتمتع المحتوى الذي أنشأه المستخدمون في الوقت الفعلي بنقاط اتصال متعددة لإيصاله.</p>\n<!-- /wp:paragraph -->",
+            "post_name": "thursday-specials",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "hs_old_id": 47,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Artwork"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        }
+    ],
+    "menus": {
+        "main-menu": {
+            "name": "القائمة الرئيسية",
+            "items": [
+                {
+                    "menu-item-title": "الصفحة الرئيسية",
+                    "menu-item-db-id": 24,
+                    "menu-item-object-id": "24",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "/"
+                },
+                {
+                    "menu-item-title": "نبذة عن",
+                    "menu-item-db-id": 52,
+                    "menu-item-object-id": "1",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "أخبار",
+                    "menu-item-db-id": 27,
+                    "menu-item-object-id": "14",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "جهة الاتصال",
+                    "menu-item-db-id": 37,
+                    "menu-item-object-id": "34",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                }
+            ]
+        },
+        "social": {
+            "name": "اجتماعي",
+            "items": [
+                {
+                    "menu-item-title": "فيسبوك",
+                    "menu-item-db-id": 29,
+                    "menu-item-object-id": "29",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://facebook.com"
+                },
+                {
+                    "menu-item-title": "إنستغرام",
+                    "menu-item-db-id": 30,
+                    "menu-item-object-id": "30",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://instagram.com"
+                },
+                {
+                    "menu-item-title": "تويتر",
+                    "menu-item-db-id": 31,
+                    "menu-item-object-id": "31",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://twitter.com"
+                },
+                {
+                    "menu-item-title": "Pinterest",
+                    "menu-item-db-id": 32,
+                    "menu-item-object-id": "32",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://pinterest.com"
+                }
+            ]
+        }
+    },
+    "images": [
+        "https://bromptondemo.files.wordpress.com/2019/08/bar-cafe-container-furniture-1089570-1.jpg",
+        "https://bromptondemo.files.wordpress.com/2019/08/cafe-768771_1920.jpg",
+        "https://bromptondemo.files.wordpress.com/2019/07/cropped-logo-new-1.png",
+        "https://bromptondemo.files.wordpress.com/2019/07/computer-study.jpg",
+        "https://bromptondemo.files.wordpress.com/2019/07/cropped-logo-new.png",
+        "https://bromptondemo.files.wordpress.com/2019/07/logo-new.png",
+        "https://bromptondemo.files.wordpress.com/2019/07/cropped-logo.png",
+        "https://bromptondemo.files.wordpress.com/2019/07/feet-pier-sneakers-17465.jpg",
+        "https://bromptondemo.files.wordpress.com/2019/07/blogging-coffee-copywriting-34601.jpg"
+    ]
+}

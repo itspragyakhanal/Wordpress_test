@@ -1,0 +1,123 @@
+# Translation of WordPress.com - Themes - Brompton in Lithuanian
+# This file is distributed under the same license as the WordPress.com - Themes - Brompton package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-07-24 01:28:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: lt\n"
+"Project-Id-Version: WordPress.com - Themes - Brompton\n"
+
+#: inc/wpcom-colors.php:422 inc/wpcom-editor-colors.php:224
+msgid "Secondary Color"
+msgstr "Antroji spalva"
+
+#: inc/wpcom-colors.php:406 inc/wpcom-editor-colors.php:206
+msgid "Text Color"
+msgstr "Teksto spalva"
+
+#: inc/wpcom-colors.php:259 inc/wpcom-editor-colors.php:120
+msgid "Link Color"
+msgstr "Nuorodų spalva"
+
+#: inc/wpcom-colors.php:160 inc/wpcom-editor-colors.php:81
+msgid "Background Color"
+msgstr "Fono spalva"
+
+#: functions.php:98
+msgid "Foreground"
+msgstr "Priekinis planas"
+
+#: functions.php:93
+msgid "Background"
+msgstr "Fono nustatymai"
+
+#. translators: %s: WordPress.
+#: footer.php:41
+msgid "proudly powered by %s."
+msgstr "Sistema: %s"
+
+#: footer.php:21
+msgid "Footer Menu"
+msgstr "Poraštės navigacija"
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/brompton/style.css
+msgid "https://automattic.com/"
+msgstr "https://automattic.com/"
+
+#. Author of the plugin/theme
+#: wp-content/themes/pub/brompton/style.css
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/brompton/style.css
+msgid "Running a business is no small task. But with the right tools and support, creating a website doesn’t have to be another chore on your to-do list: enter Brompton, a simple yet powerful theme for small-business owners and entrepreneurs."
+msgstr "Verslo valdymas nėra paprasta užduotis. Tačiau turint reikiamus įrankius ir pagalbą, tinklalapio sukūrimas neliks tik dar vienu įrašu darbų sąraše: padės Brompton, paprasta, bet galinga tema smulkaus verslo savininkams ir verslininkams."
+
+#. Translators: If there are characters in your language that are not supported
+#. by Nunito Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:152
+msgctxt "Nunito Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Lora, translate this to 'off'. Do not translate into your own language.
+#: functions.php:146
+msgctxt "Lora font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:88
+msgid "Secondary"
+msgstr "Antrinis"
+
+#: functions.php:83
+msgid "Primary"
+msgstr "Pagrindinis"
+
+#: functions.php:58
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:57
+msgid "Huge"
+msgstr "Labai didelis"
+
+#: functions.php:52
+msgid "L"
+msgstr "L"
+
+#: functions.php:51
+msgid "Large"
+msgstr "Didelis"
+
+#: functions.php:46
+msgid "M"
+msgstr "M"
+
+#: functions.php:45
+msgid "Medium"
+msgstr "Vidutinio tamsumo"
+
+#: functions.php:40
+msgid "N"
+msgstr "N"
+
+#: functions.php:39
+msgid "Normal"
+msgstr "Normalus"
+
+#: functions.php:34
+msgid "S"
+msgstr "S"
+
+#: functions.php:33
+msgid "Small"
+msgstr "Mažas"
